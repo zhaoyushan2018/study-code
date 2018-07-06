@@ -5,7 +5,7 @@ public class App {
     
     public static void main(String[] args) {
         
-        System.out.println("this is a java code");
+        System.out.println("welcome to visit");
         
     }
     
@@ -72,10 +72,13 @@ public class App {
 
 如果遇到问题请访问[度娘](https://www.baidu.com/)
 
-https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3692744090,4225836522&fm=173&app=25&f=JPEG?w=500&h=722&s=A51E2777451AE5CC5A6184DB0100C033
+[好看的](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3692744090,4225836522&fm=173&app=25&f=JPEG?w=500&h=722&s=A51E2777451AE5CC5A6184DB0100C033)
+
+
+
+[漂亮的](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=dd3b2cf9dbb44aed4d43b6b6d275ec64/caef76094b36acaf75feb94f7dd98d1001e99c62.jpg)
 
 
 
 
 
-https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=dd3b2cf9dbb44aed4d43b6b6d275ec64/caef76094b36acaf75feb94f7dd98d1001e99c62.jpg

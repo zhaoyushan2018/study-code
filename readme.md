@@ -72,6 +72,10 @@ public class App {
 
 如果遇到问题请访问[度娘](https://www.baidu.com/)
 
+或者[bing一下](https://cn.bing.com/)
+
+或者[自己玩去把!](http://news.baidu.com/)
+
 [好看的](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3692744090,4225836522&fm=173&app=25&f=JPEG?w=500&h=722&s=A51E2777451AE5CC5A6184DB0100C033)
 
 

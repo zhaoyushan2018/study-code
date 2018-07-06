@@ -88,3 +88,8 @@ public class App {
 
 
 
+```html
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530886799552&di=5199aa3503cd60b1962bc942505fce7a&imgtype=0&src=http%3A%2F%2Fimg11.360buyimg.com%2Fcms%2Fjfs%2Ft1087%2F341%2F1419442751%2F392163%2F685504d3%2F559e3649N9de8a2c4.jpg" width="50%" height="50%" />
+
+```
+

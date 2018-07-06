@@ -26,7 +26,7 @@ public class Test{
 ![](https://tse2-mm.cn.bing.net/th?id=OIP.0E1eTDXCzJwNewXAnpLaHQHaJ4&w=181&h=241&c=7&o=5&pid=1.7)
 
 
-<<<<<<< HEAD
+
 ```html
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530886799552&di=5199aa3503cd60b1962bc942505fce7a&imgtype=0&src=http%3A%2F%2Fimg11.360buyimg.com%2Fcms%2Fjfs%2Ft1087%2F341%2F1419442751%2F392163%2F685504d3%2F559e3649N9de8a2c4.jpg" width="50%" height="50%" />
 ```
@@ -61,7 +61,5 @@ public class Test{
 
 ![](http://pic.yesky.com/uploadImages/2016/338/43/1L6QB07ORYWH.jpg)
 
-=======
 
 
->>>>>>> 1e5c2febc5c6a28051a89406563574c0e1900529

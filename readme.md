@@ -12,7 +12,7 @@ public class Test{
 }
 ~~~
 
-![美女推荐](https://tse2-mm.cn.bing.net/th?id=OIP.u6L2gg23oAjA1sms8r8g9wHaLH&w=181&h=272&c=7&o=5&pid=1.7)[![yushan](E:\gitwork\study-code\yushan.jpg)](https://cn.bing.com/images/search?q=%E8%B6%B3%E7%90%83%E5%AE%9D%E8%B4%9D&qpvt=%E8%B6%B3%E7%90%83%E5%AE%9D%E8%B4%9D&FORM=IGRE)
+![美女推荐](https://tse2-mm.cn.bing.net/th?id=OIP.u6L2gg23oAjA1sms8r8g9wHaLH&w=181&h=272&c=7&o=5&pid=1.7)[![](E:\gitwork\study-code\yushan.jpg)](https://cn.bing.com/images/search?q=%E8%B6%B3%E7%90%83%E5%AE%9D%E8%B4%9D&qpvt=%E8%B6%B3%E7%90%83%E5%AE%9D%E8%B4%9D&FORM=IGRE)
 
 ![](https://tse3-mm.cn.bing.net/th?id=OIP.85Q1QJlvqVB2o3Ef6gqsigHaLH&w=181&h=272&c=7&o=5&pid=1.7)
 
